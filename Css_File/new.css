@@ -1,0 +1,106 @@
+.body{
+    width:1500px;
+    height:1000px;
+    border-style: groove;
+    background-image: url(pic4.jpg);
+    background-repeat: round;
+}
+.first-header{
+    width:1500px;
+    height:70px;
+    border-style: blue;
+    font-size: 7ch;
+    text-indent: 15.9ch;
+    color: white;
+    background-image: url(header_pic.png);
+}
+.second-header{
+    width:1500px;
+    height:120px;
+    border-style: blue;
+    font-size: 7ch;
+    text-indent: 15ch;
+    background-image: url(header_pic.png);
+    color:white;
+    padding-top: 0ch;
+
+}
+.links{
+    width:1500px;
+    height:50px;
+    border-style: groove;
+    font-size: 3.5ch;
+    background-color: rgb(28, 89, 204);
+    text-emphasis-color: white ;
+
+}
+.centre1{
+    width:980px;
+    height:500px;
+    border-style: groove;
+    border-radius: 1cm;
+    padding-top: 3cm;
+    margin-top: 5px;
+    float:left;
+    float:right;
+    float:left;
+    font-size: 3.5ch;
+    color:white;
+    font-weight:lighter;
+    padding-top: 0ch;
+
+}
+h3{
+    color:black;
+    font-weight: bold;
+    
+    
+
+}
+.centre2{
+
+    width:500px;
+    height:470px;
+    border-style: groove;
+    border-radius: 1cm;
+    padding-top: 1cm;
+    margin-top: 5px;
+    float:left;
+    float:Right;
+    float:left;
+    text-indent: 2;
+    font-size: 2.5ch;
+    font-weight: bold;
+    color:red ;
+
+    
+
+    
+}
+
+.links a{
+    text-decoration: none;
+    color:white;
+}
+.links a:hover{
+    background-color:white;
+    color: rgb(28, 89, 204);
+    
+}
+.lists{
+    color:white;
+    font-weight:lighter;
+
+}
+.d1{
+    color:rgb(71, 3, 37);
+    font-weight: bolder;
+    font-size: 3.5ch;
+}
+.last{
+    color:black;
+    font-weight: bold;
+    font-size: 4ch;
+    float:left;
+}
+
